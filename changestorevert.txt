@@ -1,0 +1,9 @@
+openai_api.py line 360
+
+ obs, info = self.reset()
+            return obs, 0.0, True, False, Info
+            print("battle is already finished, resetting")
+            # raise RuntimeError("Battle is already finished, call reset")
+
+delete return and print
+uncomment raise error

@@ -1,0 +1,4 @@
+AbstractBattle
+
+add logger at init
+ignore messages?
